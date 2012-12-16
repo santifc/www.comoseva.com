@@ -50,5 +50,8 @@ else
 Esta web usa tecnolog&iacute;a de <a href="http://maps.google.es" target="_blank" class="footerlink">Google Maps</a>, <a href="http://opengraphprotocol.org/" target="_blank">Open Graph Protocol</a>, <a href="http://www.uservoice.com" target="_blank" class="footerlink">UserVoice.com</a>, <a href="http://createqrcode.appspot.com/" target="_blank" class="footerlink">Create QR Code</a> y <a href="http://www.addthis.com" target="_blank" class="footerlink">AddThis</a><br />  
 <a href="http://comosevapuntocom.blogspot.com/" target="_blank" class="footerlink">Blog</a> | <a href="mailto:dime@comoseva.com" class="footerlink">Contacto</a> </font> | <a href="http://www.webdelosdeseos.org/" target="_blank" class="footerlink">Web de los deseos</a> | Twitter: <a href="http://twitter.com/santifc">@santifc</a></td>
   </tr>
+  <tr>
+    <td colspan="3" align="center"><font color="#999999" size="2">Proyecto en <a href="https://github.com/santifc/www.comoseva.com" target="_blank">GitHub</a>. Se aceptan colaboraciones!</font></td>
+  </tr>
 </table>
 
