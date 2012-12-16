@@ -1,0 +1,293 @@
+      body {
+        font-family: Verdana, Arial, sans serif;
+        font-size: 12px;
+        margin: 5px;
+      }
+h1 {
+ font-size: 32px;
+ padding:0;
+ border:0;
+ margin:0;
+ color:#333333;
+}
+.claim{
+
+        font-size: 20px;
+
+}
+
+/* ADDTHIS */
+
+#adthis {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+	left: 970px;
+	top: 22px;
+	
+}
+#rutadinamica {
+background-color:#FFFFFF;
+	position:absolute;
+	width:240px;
+	height:20px;
+	z-index:1;
+	left: 50%;
+	top: 10px;
+	padding:5px;
+	border:1px;
+	border-color:#666666;
+	border-style:dotted;
+	font-size:14px;
+	font-weight:bold;
+}
+
+
+.addthis_toolbox .vertical
+{
+    width: 136px;
+    padding: 10px 0 10px 0;
+    border: 3px solid #eee;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.addthis_toolbox .vertical a
+{
+    width: 102px;
+    padding: 4px 0 4px 34px;
+    position: relative;
+    display: block;
+    text-decoration: none;
+    color: blue;
+}
+
+.addthis_toolbox .vertical a:hover
+{
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background: #B4D3F8;
+    text-decoration: none;
+}
+
+.addthis_toolbox .vertical span
+{
+    position: absolute;
+    left: 14px;
+    top: 4px;
+}
+
+.addthis_toolbox .vertical .more
+{
+    border-top: solid 1px #eee;
+    padding: 10px 0 0 0;
+    margin: 10px 10px 0 10px;
+    text-align: center;
+}
+
+.addthis_toolbox .vertical .more a
+{
+    padding: 4px 0;
+    margin: 0;
+}
+
+.addthis_toolbox .vertical .more span
+{
+    display: none;
+}
+
+/* ADDTHIS */
+
+
+.celdahome
+{
+
+border-width:1px;
+/*border-color:#3366CC;*/
+border-color:#8AA7E1;
+border-style:solid;
+background-color:#FFFFf2;
+}
+a.footerlink:link
+{
+text-decoration:none;
+font-size:11px;
+color:#666666;
+}
+a.footerlink:active
+{
+text-decoration:none;
+font-size:11px;
+color:#666666;
+}
+a.footerlink:visited
+{
+text-decoration:none;
+font-size:11px;
+color:#666666;
+}
+a.footerlink:hover
+{
+text-decoration:underline;
+font-size:11px;
+color:#666666;
+}
+.subclaim{
+
+        font-size: 12px;
+
+}
+.botonenviarhome{
+font-size:24px;
+
+}
+.textomain{
+
+        font-size: 32px;
+
+}
+.textomainsub{
+
+        font-size: 32px;
+		color:#666666;
+
+}
+.comentarios{
+
+        font-size: 12px;
+		color:#999999;
+
+}
+.direccionreverse{
+
+        font-size: 12px;
+		/*color:#999999;*/
+		color:#999999;
+
+}
+
+.cajaurl{
+/* border-style:dotted; border-width:1px; background-color:#FFFFFF; border-color:#666666; */
+}
+
+
+.url1{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#009900;
+
+/*border:dotted;
+border-style:dotted;
+border-width:1px;
+padding:15px;*/
+
+}
+a.linksmallurl:link, a.linksmallurl:visited {
+text-decoration:none;
+color:#999999;
+font-size:12px;
+
+}
+
+
+a.linkhome:link{
+text-decoration:none;
+color:#3366CC;
+font-size:17px;
+font-weight:bold;
+}
+a.linkhome:visited{
+text-decoration:none;
+color:#3366CC;
+font-size:17px;
+font-weight:bold;
+
+}
+a.linkhome:hover{
+text-decoration:underline;
+color:#3366CC;
+font-size:17px;
+font-weight:bold;
+}
+a.linkhome:active{
+text-decoration:none;
+color:#3366CC;
+font-size:17px;
+font-weight:bold;
+}
+
+a.toplink:link{
+text-decoration:none;
+color:#3366CC;
+font-size:10px;
+
+}
+a.toplink:visited{
+text-decoration:none;
+color:#3366CC;
+font-size:10px;
+
+
+}
+a.toplink:hover{
+text-decoration:underline;
+color:#3366CC;
+font-size:10px;
+
+}
+a.toplink:active{
+text-decoration:none;
+color:#3366CC;
+font-size:10px;
+
+}
+a.linkiphone:link{
+text-decoration:none;
+color:#3366CC;
+font-size:30px;
+
+}
+/*FOOTER*/
+.footer a:link {
+color:#666666;
+font-size:11px;
+text-decoration:none;
+}
+.footer a:visited {
+color:#666666;
+font-size:11px;
+text-decoration:none;
+}
+.footer a:hover {
+color:#666666;
+font-size:11px;
+text-decoration:underline;
+}
+table.footer {
+font-size:11px;
+color:#666666;}
+/*FOOTER*/
+
+a.linkiphone:visited{
+text-decoration:none;
+color:#3366CC;
+font-size:30px;
+
+}
+a:link{
+text-decoration:none;
+color:#3366cc;
+}
+a:active{
+text-decoration:none;
+color:#3366cc;
+}
+a:visited{
+text-decoration:none;
+color:#3366cc;
+}
+a:hover{
+text-decoration:underline;
+color:#3366cc;
+}

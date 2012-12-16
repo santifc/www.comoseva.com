@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "admin"
+AuthUserFile /web/htdocs/www.comoseva.com/home/adminx/.htpasswd
+require valid-user

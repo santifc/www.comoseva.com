@@ -1,0 +1,9 @@
+#redirect 301 /index.php http://www.comoseva.com/
+#este funciona bien, aunque no deja entrar al raiz /
+RewriteEngine on
+RewriteRule ^([/]+)?$ /index.php [NC,L] 
+
+RewriteRule ^([a-z0-9_-]+)?$ /aquioculto.php?texto=$1 [NC,QSA,L]
+#RewriteRule ^([a-z0-9_-]+)?[/]$ /aquioculto.php?texto=$1 [NC,QSA,L]
+
+ErrorDocument 404 http://www.comoseva.com/404page.php
